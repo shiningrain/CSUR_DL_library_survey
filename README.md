@@ -3,7 +3,7 @@
 ## TL;DR
 
 This paper provides an overview of the testing research related to various DL libraries, discusses the strengths and weaknesses of existing methods, and provides guidance and reference for the application of the DL library.
-In this paper, we have collected 8 state-of-the-art open-sourced testing methods using different testing techniques (i.e., [Muffin](https://github.com/library-testing/Muffin), [FreeFuzz](https://github.com/ise-uiuc/FreeFuzz), [DocTer](https://github.com/lin-tan/DocTer), [DeepREL](https://github.com/ise-uiuc/DeepREL), [TitanFuzz](https://github.com/ise-uiuc/TitanFuzz), [Muffin-TVM](https://github.com/wzh99/GenCoG/tree/master/muffin), [Tzer](https://github.com/Tzer-AnonBot/tzer), [GenCoG](https://github.com/wzh99/GenCoG)) and compared their effects on DL frameworks TensorFlow and PyTorch, as well as DL compiler TVM.
+In this paper, we have collected 8 state-of-the-art open-sourced testing methods using different testing techniques (i.e., [Muffin](https://github.com/library-testing/Muffin), [FreeFuzz](https://github.com/ise-uiuc/FreeFuzz), [DocTer](https://github.com/lin-tan/DocTer), [DeepREL](https://github.com/ise-uiuc/DeepREL), [TitanFuzz](https://github.com/ise-uiuc/TitanFuzz), [Muffin-TVM](https://github.com/wzh99/GenCoG/tree/master/muffin), [Tzer](https://github.com/Tzer-AnonBot/tzer), [GenCoG](https://github.com/wzh99/GenCoG)) and compared their effects on DL frameworks TensorFlow (2.7.0) and PyTorch (1.10.0), as well as DL compiler TVM (0.8.0).
 
 This repository provides more details on experiment setting, results, and other open-source data (such as collected papers) of our survey as supplement materials.
 
